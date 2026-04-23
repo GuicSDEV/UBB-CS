@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/guics/Documents/UBB/DB/Lab2MasterDetail/Lab2MasterDetail.csproj": {}
+    "/Users/guics/Documents/UBB-CS/DataBases-MS/Lab2/Lab2MasterDetail.csproj": {}
   },
   "projects": {
-    "/Users/guics/Documents/UBB/DB/Lab2MasterDetail/Lab2MasterDetail.csproj": {
+    "/Users/guics/Documents/UBB-CS/DataBases-MS/Lab2/Lab2MasterDetail.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/guics/Documents/UBB/DB/Lab2MasterDetail/Lab2MasterDetail.csproj",
+        "projectUniqueName": "/Users/guics/Documents/UBB-CS/DataBases-MS/Lab2/Lab2MasterDetail.csproj",
         "projectName": "Lab2MasterDetail",
-        "projectPath": "/Users/guics/Documents/UBB/DB/Lab2MasterDetail/Lab2MasterDetail.csproj",
+        "projectPath": "/Users/guics/Documents/UBB-CS/DataBases-MS/Lab2/Lab2MasterDetail.csproj",
         "packagesPath": "/Users/guics/.nuget/packages/",
-        "outputPath": "/Users/guics/Documents/UBB/DB/Lab2MasterDetail/obj/",
+        "outputPath": "/Users/guics/Documents/UBB-CS/DataBases-MS/Lab2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/guics/.nuget/NuGet/NuGet.Config"

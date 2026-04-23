@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ni+3ZWkAgjo=",
+  "dgSpecHash": "vc3JzBrhG6I=",
   "success": true,
-  "projectFilePath": "/Users/guics/Documents/UBB/DB/Lab2MasterDetail/Lab2MasterDetail.csproj",
+  "projectFilePath": "/Users/guics/Documents/UBB-CS/DataBases-MS/Lab2/Lab2MasterDetail.csproj",
   "expectedPackageFiles": [
     "/Users/guics/.nuget/packages/stub.system.data.sqlite.core.netstandard/1.0.119/stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
     "/Users/guics/.nuget/packages/system.data.sqlite.core/1.0.119/system.data.sqlite.core.1.0.119.nupkg.sha512",
