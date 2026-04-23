@@ -1,0 +1,14 @@
+{
+  "connectionString": "Data Source=database.db",
+  "master": {
+    "table": "Students",
+    "idColumn": "StudentId",
+    "displayColumn": "Name",
+    "query": "SELECT * FROM Students"
+  },
+  "detail": {
+    "table": "Grades",
+    "foreignKey": "StudentId",
+    "query": "SELECT * FROM Grades WHERE StudentId = @Id"
+  }
+}

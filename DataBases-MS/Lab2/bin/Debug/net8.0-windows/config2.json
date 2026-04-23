@@ -1,0 +1,13 @@
+{
+  "master": {
+    "table": "Authors",
+    "idColumn": "Id",
+    "displayColumn": "Name",
+    "query": "SELECT * FROM Authors"
+  },
+  "detail": {
+    "table": "Books",
+    "foreignKey": "AuthorId",
+    "query": "SELECT * FROM Books WHERE AuthorId = @Id"
+  }
+}

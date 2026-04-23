@@ -1,0 +1,14 @@
+/Users/guics/Documents/UBB/DB/Lab2MasterDetail/obj/Debug/net8.0-windows/Lab2MasterDetail.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guics/Documents/UBB/DB/Lab2MasterDetail/obj/Debug/net8.0-windows/Lab2MasterDetail.AssemblyInfoInputs.cache
+/Users/guics/Documents/UBB/DB/Lab2MasterDetail/obj/Debug/net8.0-windows/Lab2MasterDetail.AssemblyInfo.cs
+/Users/guics/Documents/UBB/DB/Lab2MasterDetail/obj/Debug/net8.0-windows/Lab2MasterDetail.csproj.CoreCompileInputs.cache
+/Users/guics/Documents/UBB/DB/Lab2MasterDetail/obj/Debug/net8.0-windows/Lab2MasterDetail.csproj.AssemblyReference.cache
+/Users/guics/Documents/UBB/DB/Lab2MasterDetail/bin/Debug/net8.0-windows/config.json
+/Users/guics/Documents/UBB/DB/Lab2MasterDetail/bin/Debug/net8.0-windows/config2.json
+/Users/guics/Documents/UBB/DB/Lab2MasterDetail/bin/Debug/net8.0-windows/Lab2MasterDetail.deps.json
+/Users/guics/Documents/UBB/DB/Lab2MasterDetail/bin/Debug/net8.0-windows/Lab2MasterDetail.dll
+/Users/guics/Documents/UBB/DB/Lab2MasterDetail/bin/Debug/net8.0-windows/Lab2MasterDetail.pdb
+/Users/guics/Documents/UBB/DB/Lab2MasterDetail/obj/Debug/net8.0-windows/Lab2MasterDetail.dll
+/Users/guics/Documents/UBB/DB/Lab2MasterDetail/obj/Debug/net8.0-windows/refint/Lab2MasterDetail.dll
+/Users/guics/Documents/UBB/DB/Lab2MasterDetail/obj/Debug/net8.0-windows/Lab2MasterDetail.pdb
+/Users/guics/Documents/UBB/DB/Lab2MasterDetail/obj/Debug/net8.0-windows/ref/Lab2MasterDetail.dll

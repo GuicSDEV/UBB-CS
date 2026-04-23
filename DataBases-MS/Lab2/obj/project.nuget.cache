@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ni+3ZWkAgjo=",
+  "success": true,
+  "projectFilePath": "/Users/guics/Documents/UBB/DB/Lab2MasterDetail/Lab2MasterDetail.csproj",
+  "expectedPackageFiles": [
+    "/Users/guics/.nuget/packages/stub.system.data.sqlite.core.netstandard/1.0.119/stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "/Users/guics/.nuget/packages/system.data.sqlite.core/1.0.119/system.data.sqlite.core.1.0.119.nupkg.sha512",
+    "/Users/guics/.nuget/packages/microsoft.netcore.app.ref/8.0.26/microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
+    "/Users/guics/.nuget/packages/microsoft.windowsdesktop.app.ref/8.0.26/microsoft.windowsdesktop.app.ref.8.0.26.nupkg.sha512",
+    "/Users/guics/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.26/microsoft.aspnetcore.app.ref.8.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
